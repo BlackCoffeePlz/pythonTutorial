@@ -8,3 +8,9 @@ collection = ['Apple', 'Orange', 'Pear']
 for index, item in enumerate(collection):
     print(index, item)
 
+# len: returns the count of all items in an iterable
+some_string = 'Hello'
+collection_count = len(collection)
+print(len(some_string))
+print(collection_count)
+
