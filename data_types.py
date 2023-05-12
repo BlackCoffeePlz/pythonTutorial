@@ -27,8 +27,6 @@ empty_string: str = ""
 
 # Hinting your variables are completely optional, but is commonly seen with python3 style of writing.
 
-
-
 # Integer(int)
 # Integers are whole numbers that can be used for counting and advanced calculations.
 # Example:

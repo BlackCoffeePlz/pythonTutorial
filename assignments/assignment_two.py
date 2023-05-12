@@ -15,6 +15,7 @@ collection = ["Apple", "Orange", "Pear"]
 # Add three items to the dictionary
 ...
 
-# add the value of the 2 item to the collection list above
+
+# add the value of the 2nd item to the collection list above
 
 ...
